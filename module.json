@@ -12,7 +12,7 @@
   "relationships": {
     "systems": [{"id": "daggerheart", "type": "system"}]
   },
-  "url": "https://github.com/SeuUsuario/dh-mobile-fullscreen",
-  "manifest": "https://github.com/SeuUsuario/dh-mobile-fullscreen/releases/latest/download/module.json",
-  "download": "https://github.com/SeuUsuario/dh-mobile-fullscreen/releases/download/v1.0.0/module.zip"
+  "url": "https://github.com/IgorAK25/dh-mobile-fullscreen",
+  "manifest": "https://github.com/IgorAK25/dh-mobile-fullscreen/releases/latest/download/module.json",
+  "download": "https://github.com/IgorAK25/dh-mobile-fullscreen/releases/download/v1.0.0/module.zip"
 }
